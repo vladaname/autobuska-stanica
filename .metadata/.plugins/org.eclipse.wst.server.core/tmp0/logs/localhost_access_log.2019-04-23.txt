@@ -1,0 +1,2 @@
+127.0.0.1 - - [23/Apr/2019:22:11:36 +0200] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Apr/2019:22:12:34 +0200] "GET /AutobuskaStanicaWEB/StatistikaNajprometnijaLinijaSERVLET HTTP/1.1" 200 3332

@@ -1,0 +1,14 @@
+
+Apr 09, 2019 21:54:36.98 NEW SESSION
+Apr 09, 2019 21:54:36.98 [6300:4244:0409/215436.985:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 09, 2019 21:54:37.00 [6300:4244:0409/215436.985:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 09, 2019 21:54:37.00 [6300:4244:0409/215436.985:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 09, 2019 21:54:37.02 [6300:4244:0409/215436.985:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 09, 2019 21:54:52.11 [6300:4244:0409/215452.116:ERROR:browser_process_sub_thread.cc(209)] Waited 751 ms for network service
+
+Apr 21, 2019 11:11:02.93 NEW SESSION
+Apr 21, 2019 11:11:03.62 [1280:4488:0421/111054.723:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 21, 2019 11:11:05.64 [1280:4488:0421/111054.723:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 21, 2019 11:11:05.65 [1280:4488:0421/111054.723:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 21, 2019 11:11:05.65 [1280:4488:0421/111054.723:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 21, 2019 11:11:31.26 [1280:4488:0421/111130.254:ERROR:browser_process_sub_thread.cc(209)] Waited 2811 ms for network service

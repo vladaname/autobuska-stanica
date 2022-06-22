@@ -1,0 +1,16 @@
+127.0.0.1 - - [08/Apr/2019:00:17:19 +0200] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:17:36 +0200] "GET /AutobuskaStanicaWEB/Main HTTP/1.1" 200 5566
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:18:06 +0200] "GET /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 200 7519
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:18:41 +0200] "POST /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:18:41 +0200] "GET /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 200 7519
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:20:46 +0200] "POST /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:20:46 +0200] "GET /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 200 7519
+127.0.0.1 - - [08/Apr/2019:00:24:20 +0200] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:24:22 +0200] "GET /AutobuskaStanicaWEB/Main HTTP/1.1" 200 5566
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:24:31 +0200] "GET /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 200 7519
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:24:48 +0200] "POST /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:24:48 +0200] "GET /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 200 7519
+127.0.0.1 - - [08/Apr/2019:00:27:31 +0200] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:27:32 +0200] "GET /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 200 7519
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:28:00 +0200] "POST /AutobuskaStanicaWEB/LoginSERVLET HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Apr/2019:00:28:00 +0200] "GET /AutobuskaStanicaWEB/RedVoznjeSERVLET HTTP/1.1" 200 2921

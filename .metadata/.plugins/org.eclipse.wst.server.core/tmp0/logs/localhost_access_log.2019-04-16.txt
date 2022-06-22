@@ -1,0 +1,11 @@
+127.0.0.1 - - [16/Apr/2019:00:09:28 +0200] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:00:09:40 +0200] "GET /AutobuskaStanicaWEB/ListaLinijaSERVLET HTTP/1.1" 200 7688
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:00:09:44 +0200] "POST /AutobuskaStanicaWEB/ListaRedVoznjeSERVLET HTTP/1.1" 500 3329
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:00:10:44 +0200] "POST /AutobuskaStanicaWEB/ListaRedVoznjeSERVLET HTTP/1.1" 200 4566
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:18:29:33 +0200] "POST /AutobuskaStanicaWEB/ListaRedVoznjeSERVLET HTTP/1.1" 200 4566
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:18:29:46 +0200] "POST /AutobuskaStanicaWEB/ListaRedVoznjeSERVLET HTTP/1.1" 200 3451
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:18:32:52 +0200] "POST /AutobuskaStanicaWEB/ListaRedVoznjeSERVLET HTTP/1.1" 200 3484
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:18:33:16 +0200] "POST /AutobuskaStanicaWEB/ListaRedVoznjeSERVLET HTTP/1.1" 200 4807
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:18:35:41 +0200] "POST /AutobuskaStanicaWEB/ListaRedVoznjeSERVLET HTTP/1.1" 200 4807
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:18:35:48 +0200] "POST /AutobuskaStanicaWEB/ListaRedVoznjeSERVLET HTTP/1.1" 200 4807
+0:0:0:0:0:0:0:1 - - [16/Apr/2019:18:36:04 +0200] "POST /AutobuskaStanicaWEB/ListaRedVoznjeSERVLET HTTP/1.1" 200 3665
